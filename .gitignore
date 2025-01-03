@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Entorno virtual
+venv/
+env/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de registro y cache
+*.log
+.cache/
+
+# Archivos de datos grandes
+*.csv
+*.json
+*.pkl
+
+# Archivos de configuración IDE
+.idea/
+.vscode/
